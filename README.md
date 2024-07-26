@@ -144,3 +144,5 @@
 ## Diagrama de Arquitetura
 
 ![Diagrama de Arquitetura](./arch.png)
+![Post de Cadastro de Consultas Médicas](./img-post-consultas.png)
+![Post de Cadastro de Médicos](./img-post-medicos.png)
