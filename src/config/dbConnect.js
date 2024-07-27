@@ -1,5 +1,3 @@
-//mongodb+srv://admin:<password>@mycluster.uhnjdgd.mongodb.net/?retryWrites=true&w=majority&appName=MyCluster
-
 import mongoose, {mongo} from "mongoose";
 
 async function dbConnect() {
