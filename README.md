@@ -143,8 +143,16 @@
 
 ## Diagrama de Arquitetura
 
-![Diagrama de Arquitetura](./arch.png)
-![Post_de_Cadastro_de_Consultas_Médicas](./img-post-consultas.png)
-![Post de Cadastro de Médicos](./img-post-medicos.png)
-![Post de Cadastro de Médicos no mongoDB](./img-mongodb-consultas.png)
+![Diagrama de Arquitetura](./arch.png)  
+
+## Chamada Cadastro de Consultas Médicas
+![Post_de_Cadastro_de_Consultas_Médicas](./img-post-consultas.png)  
+
+## Chamada Cadastro de Médicos
+![Post de Cadastro de Médicos](./img-post-medicos.png)  
+
+## Chamada Cadastro de Médicos no mongoDB
+![Post de Cadastro de Médicos no mongoDB](./img-mongodb-consultas.png)  
+
+## Chamada Cadastro de Consultas no mongoDB
 ![Post de Cadastro de Consultas no mongoDB](./img-mongodb-medicos.png)
