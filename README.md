@@ -146,3 +146,5 @@
 ![Diagrama de Arquitetura](./arch.png)
 ![Post de Cadastro de Consultas Médicas](./img-post-consultas.png)
 ![Post de Cadastro de Médicos](./img-post-medicos.png)
+![Post de Cadastro de Médicos no mongoDB](./img-mongodb-medicos.png)
+![Post de Cadastro de Consultas no mongoDB](./img-mongodb-consultas.png)
